@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/Covid_data_dashboard_pkg_luishidalgogt2003.egg-info/PKG-INFO
+src/Covid_data_dashboard_pkg_luishidalgogt2003.egg-info/SOURCES.txt
+src/Covid_data_dashboard_pkg_luishidalgogt2003.egg-info/dependency_links.txt
+src/Covid_data_dashboard_pkg_luishidalgogt2003.egg-info/top_level.txt
+src/package/__init__.py
+src/package/covid_data_handler.py
+src/package/covid_news_handling.py
+src/package/covid_user_interface.py
+src/package/test_covid_data_handler.py
+src/package/test_covid_user_interface.py
+src/package/test_news_data_handling.py

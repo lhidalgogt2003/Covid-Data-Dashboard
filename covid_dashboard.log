@@ -1,0 +1,12 @@
+INFO 2021-12-07 17:27:11,612 - COVID19 DASHBOARD
+INFO 2021-12-07 17:27:11,612 - covid_data_handling module:
+DEBUG 2021-12-07 17:27:11,612 - configuration file opens
+INFO 2021-12-07 17:27:11,612 - parse_csv_data:
+DEBUG 2021-12-07 17:27:11,612 - Open The File
+DEBUG 2021-12-07 17:27:11,612 - Iterate through the file and append to a list
+DEBUG 2021-12-07 17:27:11,612 - Return the list of data
+INFO 2021-12-07 17:27:11,612 - process_covid_csv_data:
+DEBUG 2021-12-07 17:27:11,612 - calculates current hospital cases
+DEBUG 2021-12-07 17:27:11,612 - calculates total deaths
+DEBUG 2021-12-07 17:27:11,612 - calculates last seven days cases
+DEBUG 2021-12-07 17:27:11,612 - returns the three values processed
